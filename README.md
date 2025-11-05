@@ -83,7 +83,7 @@ If you’d like to improve features or UI, please fork the repo and submit a pul
 Rahul Kumar
 🎓 MCA Student at Sarala Birla University, Ranchi
 💼 Project: AI Resume Analyzer using Python & React
-📧 Email: your_email@example.com
+📧 Email: rahulkumar773954@gmail.com
 
 🌟 Acknowledgements
 
@@ -91,3 +91,4 @@ Flask
 spaCy
 Tailwind CSS
 React
+
