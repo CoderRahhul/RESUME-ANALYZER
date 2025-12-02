@@ -331,7 +331,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="text-center">
             <p className="text-gray-600 text-sm mb-2">
-              Developed by <span className="font-bold text-indigo-600">Rahul Kumar</span> & <span className="font-bold text-purple-600">Sakshi Kumari</span>
+              Developed by <span className="font-bold text-indigo-600">Rahul Kumar</span>
             </p>
             <p className="text-gray-500 text-xs">
               © 2025 All Rights Reserved.
