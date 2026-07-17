@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: resume-analyzer
+    runtime: python
+
+    buildCommand: |
+      pip install -r backend/requirements.txt
+      cd frontend
+      npm install
+      npm run build
+
+    startCommand: cd backend && gunicorn app:app
